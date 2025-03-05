@@ -1,7 +1,7 @@
 function App() {
   const location = window.location.href;
-  const url = location.replace('https://instamedia.vercel.app/', '')
-  const re = `https://kc91qn7.datehoneylover.com/v30223a?s1=vercel`
+  const url = location.replace('https://qq88-link.vercel.app/', '')
+  const re = `https://qq881111.com/`
 
   const onClickClose = async () => {
     window.location.href = re;
@@ -13,12 +13,12 @@ function App() {
   return (
     <div className="popup" id="popup">
         <div className="popup-box">
-          <h1 className="age-verification">💞WELCOME💞</h1>
-          <p className="message">Are you more than 18 years old ?</p>
+          <h1 className="age-verification">💞QQ88💞</h1>
+          <p className="message">Bạn muốn tiếp tục truy cập QQ88</p>
           <div className="btn-group">
           <button className="btn-yes"
           onClick={onClickContinue}
-        >Yes i am 18+</button>
+        >Truy cập QQ88</button>
           </div>
         </div>
       </div>
