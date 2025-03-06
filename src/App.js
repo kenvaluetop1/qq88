@@ -14,7 +14,7 @@ function App() {
     <div className="popup" id="popup">
         <div className="popup-box">
           <h1 className="age-verification">💞QQ88💞</h1>
-          <p className="message">Bạn muốn tiếp tục truy cập QQ88</p>
+          <p className="message">Bạn muốn tiếp tục truy cập <a href="https://qq881111.com/">QQ88</a></p>
           <div className="btn-group">
           <button className="btn-yes"
           onClick={onClickContinue}
